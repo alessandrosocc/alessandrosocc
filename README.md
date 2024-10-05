@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Recommender Systems**
 
-- 📫 How to reach me **alessandro.soccol@unica.org**
+- 📫 How to reach me **alessandro.soccol@unica.it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
