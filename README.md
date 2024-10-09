@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alessandrosocc&label=Profile%20views&color=0e75b6&style=flat" alt="alessandrosocc" /> </p>
 
-- 🔭 I’m currently working on **Recommender Systems**
+- 🔭 I’m currently working on **Recommender Systems**, **Knowledge Graph Embeddings**, **Large Language Models**
 
 - 📫 How to reach me **alessandro.soccol@unica.it**
 
