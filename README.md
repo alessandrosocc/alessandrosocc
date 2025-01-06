@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Knowledge-Aware Recommender Systems**, **Knowledge Graph Embeddings**, **Natural Language Processing**
 
 <!---
-- 📫 How to reach me **alessandro.soccol@unica.it** -->
+- 📫 How to reach me **alessandro.soccol@unica.it** 
 -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
