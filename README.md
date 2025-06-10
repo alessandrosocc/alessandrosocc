@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alessandro</h1>
-<h3 align="center">A research fellow and M.Sc student in Applied Artificial Intelligence @ University of Cagliari</h3>
+<h3 align="center">A Research Assistant and M.Sc student in Applied Artificial Intelligence, Excellence Program @ University of Cagliari</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alessandrosocc&label=Profile%20views&color=0e75b6&style=flat" alt="alessandrosocc" /> </p>
 
 - 🔭 I’m currently working on **Knowledge-Aware Recommender Systems**, **Knowledge Graph Embeddings**, **Natural Language Processing**
+- 🚀 Admitted to the University’s Excellence Program as part of the MSc, awarded to students for outstanding academic performance. The program provides funding for advanced courses and enrichment activities beyond the standard Master’s curriculum.
 
 
 <h3 align="left">Connect with me:</h3>
