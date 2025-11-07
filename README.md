@@ -9,9 +9,10 @@ My research lies at the intersection of **Recommender Systems** and **Natural La
 🏅 I am part of the **Excellence Program**, a MSc honors track reserved for only **two top students**, and a **Lead the Future (LTF) Mentee**, a selective mentorship program for outstanding students (≈10% acceptance rate).  
 Additionally, I have been recognized by **Forbes** as one of the **Top 100 Graduate Students in Italy**.
 
+🔭 Currently working on **Natural Language Processing** and **Information Retrieval**
 ---
 
-- 🔭 Currently working on **Natural Language Processing** and **Information Retrieval**
+
 
 ---
 
