@@ -1,10 +1,19 @@
-<h1 align="center">Hi 👋, I'm Alessandro</h1>
-<h3 align="center">A Research Assistant and M.Sc student in Applied Artificial Intelligence, Excellence Program @ University of Cagliari</h3>
+<h1 align="center">Hi 👋, I'm Alessandro Soccol</h1>
+<h3 align="center">Research Fellow & M.Sc. Student in Applied Artificial Intelligence @ University of Cagliari</h3>
 
+---
 
-- 🔭 I’m currently working on **Knowledge-Aware Recommender Systems**, **Knowledge Graph Embeddings**, **Natural Language Processing**
-- 🚀 Admitted to the University’s Excellence Program as part of the MSc, awarded to students for outstanding academic performance. The program provides funding for advanced courses and enrichment activities beyond the standard Master’s curriculum.
+🎓 I am a Master’s student in **Applied Artificial Intelligence** at the **University of Cagliari**, where I also serve as a **Research Fellow** under **Prof. Ludovico Boratto**, **Dr. Mirko Marras**, and **Dr. Giacomo Medda**.  
+My research lies at the intersection of **Recommender Systems** and **Natural Language Processing**.
 
+🏅 I am part of the **Excellence Program**, a MSc honors track reserved for only **two top students**, and a **Lead the Future (LTF) Mentee**, a selective mentorship program for outstanding students (≈10% acceptance rate).  
+Additionally, I have been recognized by **Forbes** as one of the **Top 100 Graduate Students in Italy**.
+
+---
+
+- 🔭 Currently working on **Natural Language Processing** and **Information Retrieval**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
