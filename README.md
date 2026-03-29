@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alessandro Soccol</h1>
-<h3 align="center">Research Fellow in IR and NLP & M.Sc. Student in Applied Artificial Intelligence @ University of Cagliari</h3>
+<h3 align="center">Research Fellow in IR, M.Sc. Student in Applied Artificial Intelligence @ University of Cagliari and Incoming Doctoral Researcher @ Max Planck Institute for Intelligent Systems (IMPRS-IS) </h3>
 
 ---
 
